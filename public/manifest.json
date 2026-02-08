@@ -1,0 +1,16 @@
+{
+  "name": "Smart Dormitory Management System",
+  "short_name": "Smart DMS",
+  "description": "A comprehensive dormitory management system for universities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [],
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
